@@ -49,7 +49,3 @@ The form is styled using CSS, and the background banner image can be changed by 
 This web form is a basic example and does not include any server-side processing. It is intended for educational purposes and can be extended and integrated with a server-side backend to handle form submissions and data storage.
 
 If you'd like to contribute to this project, feel free to submit pull requests or suggest improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as you see fit.
